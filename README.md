@@ -1,4 +1,3 @@
-````md id="v1k8rp"
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Melisa%20Ch%C3%A1vez&fontSize=55&fontAlignY=40&animation=fadeIn&desc=Desarrolladora%20Junior%20%7C%20DAM%20%7C%20Gaming%20%26%20Tech&descAlignY=60"/>
@@ -76,21 +75,13 @@ Me encanta aprender creando proyectos reales y seguir mejorando cada día como d
 
 # 📚 Actualmente aprendiendo
 
-```txt
-✔ Programación Orientada a Objetos
-
-✔ APIs REST
-
-✔ React
-
-✔ Testing y depuración
-
-✔ Bases de Datos
-
-✔ Buenas prácticas de desarrollo
-
-✔ Git y trabajo con repositorios
-````
+- ✔ Programación Orientada a Objetos
+- ✔ APIs REST
+- ✔ React
+- ✔ Testing y depuración
+- ✔ Bases de Datos
+- ✔ Buenas prácticas de desarrollo
+- ✔ Git y trabajo con repositorios
 
 ---
 
@@ -127,5 +118,3 @@ Seguir creciendo como desarrolladora, aprender nuevas tecnologías y construir p
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient"/>
 
 </div>
-```
-
