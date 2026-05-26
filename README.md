@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Melisa%20Ch%C3%A1vez&fontSize=55&fontAlignY=40&animation=fadeIn&desc=Desarrolladora%20Junior%20%7C%20DAM%20%7C%20Gaming%20%26%20Tech&descAlignY=60"/>
+# 💜 Gaming • Desarrollo • Tecnología 💜
+
+### 🚀 Construyendo proyectos y aprendiendo cada día
 
 </div>
 
