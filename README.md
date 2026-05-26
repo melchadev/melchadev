@@ -4,6 +4,12 @@
 
 </div>
 
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=A970FF&center=true&vCenter=true&width=750&lines=%F0%9F%92%BB+Estudiante+de+DAM;%F0%9F%8E%AE+Apasionada+de+los+videojuegos;%F0%9F%9A%80+Aprendiendo+desarrollo+Full+Stack;%E2%9A%A1+Java+%7C+PHP+%7C+React+%7C+MySQL;%F0%9F%94%A5+Construyendo+proyectos+y+aprendiendo+cada+d%C3%ADa" />
+
+</div>
+
 ---
 
 # 👋 Sobre mí
@@ -76,6 +82,7 @@ Me encanta aprender creando proyectos reales y seguir mejorando cada día como d
 - ✔ Bases de Datos
 - ✔ Buenas prácticas de desarrollo
 - ✔ Git y trabajo con repositorios
+
 
 ---
 
